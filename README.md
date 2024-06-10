@@ -25,12 +25,8 @@ Soy Encargado de División en la Dirección de Coordinación, Administrativa, Le
   - React-hot-toast
   - Recharts
   - React-icons
-
-### 🔹 Experiencia Laboral:
-- **Encargado de División en la Dirección de Coordinación, Administrativa, Legal y de Tratamiento S.P.F.** 
-  (Ag. 2013 - Actualidad | Argentina)
-
-  #### Aptitudes:
+ 
+#### Aptitudes:
   - Adaptación
   - Scrum
   - Trabajo en equipo
@@ -44,22 +40,24 @@ Soy Encargado de División en la Dirección de Coordinación, Administrativa, Le
   **Descripción del Proyecto:**
   Mira este [video de muestra](https://www.youtube.com/watch?v=rRU_QRKHRtI) para obtener una vista detallada del proyecto. La interfaz desarrollada permitió una gestión eficiente de turnos, plantilla de empleados, clientes, inventario y finanzas del emprendimiento de belleza.
 
+### 🔹 Experiencia Laboral:
+- **Encargado de División en la Dirección de Coordinación, Administrativa, Legal y de Tratamiento S.P.F.** 
+  (Ag. 2013 - Actualidad | Argentina)
+
+
 ### 🔹 Educación:
 - **Full Stack Developer** - Instituto Soy Henry
-  En la etapa final del curso, adquiriendo habilidades en desarrollo web y programación.
+  Graduado del Henry Bootcamp con mas de 800 horas entre clases teoricas y prácticas.
 
-- **Ingeniería Química** - Universidad Tecnológica Nacional
-  Actualmente en el tercer año de la carrera, combinando habilidades técnicas con conocimientos en ingeniería química.
 
 ### 🔹 Habilidades:
-Manejo avanzado de Microsoft Office y nivel de inglés avanzado.
+Manejo avanzado de Microsoft Office
+Nivel de Inglés: C1 - Avanzado.
 
 ### 🔹 Ubicación:
-Resido en Adrogué, Almirante Brown, Buenos Aires.
+Buenos Aires, Argentina.
 
 ### 🔹 Contacto:
 Correo electrónico: fsuppanieto@gmail.com
 LinkedIn: https://www.linkedin.com/in/fernando-suppa-nieto/
 
-### 🔹 Objetivo en GitHub:
-Busco oportunidades para crecer como profesional y aplicar las nuevas herramientas tecnológicas adquiridas durante mi formación en Soy Henry. Mi meta es convertirme en un profesional destacado. Me destaco por mi resiliencia y habilidad para trabajar en equipo.

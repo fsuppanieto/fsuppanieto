@@ -48,6 +48,8 @@ Soy Encargado de División en la Dirección de Coordinación, Administrativa, Le
 ### 🔹 Educación:
 - **Full Stack Developer** - Instituto Soy Henry
   Graduado del Henry Bootcamp con mas de 800 horas entre clases teoricas y prácticas.
+  
+  - **UX/UI Designer** - Curso realizado a través de la plataforma UxPeak.
 
 
 ### 🔹 Habilidades:

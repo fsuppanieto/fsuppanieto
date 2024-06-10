@@ -52,6 +52,7 @@ Soy Encargado de División en la Dirección de Coordinación, Administrativa, Le
 
 ### 🔹 Habilidades:
 Manejo avanzado de Microsoft Office
+
 Nivel de Inglés: C1 - Avanzado.
 
 ### 🔹 Ubicación:
@@ -59,5 +60,6 @@ Buenos Aires, Argentina.
 
 ### 🔹 Contacto:
 Correo electrónico: fsuppanieto@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/fernando-suppa-nieto/
 
